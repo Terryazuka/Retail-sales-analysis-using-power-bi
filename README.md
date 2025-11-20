@@ -47,7 +47,7 @@ https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/blob/main/Sal
 -	Cards for KPIs (Revenue, Profit, Margin %)
   
 ## Conclusion
-     This sales analysis empowered stakeholders to:
+This sales analysis empowered stakeholders to:
 -	Identify high – performing stores and underperformers
 -	Understand how discount strategies affect different customer type
 -	Make data – driven decisions on pricing, promotion, and inventory
