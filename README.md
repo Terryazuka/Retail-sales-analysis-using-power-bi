@@ -1,4 +1,4 @@
 # Retail-sales-analysis-using-power-bi
 
 ## Project Objectives
-To analyze sales data from multiple store location in Abuja, Nigeria, with the goal of uncovering key business insights related to revenue generation, profitability, dicount strategies, and customer behaviour-ultimately for improved performance.
+To analyze sales data from multiple store location in Abuja, Nigeria, with the goal of uncovering key business insights related to revenue generation,profitability,dicount strategies, and customer behaviour-ultimately for improved performance.
