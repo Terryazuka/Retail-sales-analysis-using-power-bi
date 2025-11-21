@@ -24,6 +24,7 @@ https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/blob/main/Sal
   
 ## Dashboard
 <img width="1434" height="811" alt="Screenshot 2025-11-21 100714" src="https://github.com/user-attachments/assets/a59ea41f-3206-4818-a8c0-ce085792cff4" />
+
 <img width="1410" height="812" alt="Screenshot 2025-11-21 100818" src="https://github.com/user-attachments/assets/3524c4d0-e8f4-4662-a05e-b7b017e57307" />
 
 ## Procedures
