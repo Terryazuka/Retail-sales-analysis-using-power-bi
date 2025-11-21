@@ -8,10 +8,6 @@ To analyze sales data from multiple store location in Abuja, Nigeria, with the g
 
 [download excel file](https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/raw/refs/heads/main/Sales%20Table%20Analysis.xlsx)
 
-https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/blob/main/Assign.pbix
-
-https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/blob/main/Sales%20Table%20Analysis.xlsx
-
 ## Question
 -	 What product category has the highest profit margin?
 -	Which store location generates the most revenue?
