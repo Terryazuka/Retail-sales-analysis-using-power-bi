@@ -55,7 +55,8 @@ This sales analysis empowered stakeholders to:
 -	Make data – driven decisions on pricing, promotion, and inventory
 -	Predict future sales outcomes and prepare for high-volume seasons
 -	Communicate insights clearly using dynamics visuals and narratives
-  
+
 ## Contact
+📧[Email](Terry4azuka@gmail.com)
 🍥[Chat on WhatsApp]https://wa.me/2347053066503 
-📧(Terry4azuka@gmail.com)
+🔗[LinkedIn]https://www.linkedin.com/in/terry-azuka-
