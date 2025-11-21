@@ -58,5 +58,5 @@ This sales analysis empowered stakeholders to:
 
 ## Contact
 📧[Email](Terry4azuka@gmail.com)
-🍥[Chat on WhatsApp]https://wa.me/2347053066503 
-🔗[LinkedIn]https://www.linkedin.com/in/terry-azuka-
+🍥[Chat on WhatsApp](https://wa.me/2347053066503) 
+🔗[LinkedIn](https://www.linkedin.com/in/terry-azuka-)
