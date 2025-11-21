@@ -57,4 +57,4 @@ This sales analysis empowered stakeholders to:
 -	Communicate insights clearly using dynamics visuals and narratives
   
 ## Contact
-📧[Email](Terry4azuka@gmail.com)
+🍥[Chat on WhatsApp]https://wa.me/2347053066503 
