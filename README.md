@@ -5,7 +5,7 @@ To analyze sales data from multiple store location in Abuja, Nigeria, with the g
 
 ## Dataset Used
 [download powerBi file](https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/raw/refs/heads/main/Assign.pbix)
-
+[download excel file](https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/raw/refs/heads/main/Sales%20Table%20Analysis.xlsx)
 https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/blob/main/Assign.pbix
 
 https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/blob/main/Sales%20Table%20Analysis.xlsx
