@@ -26,7 +26,6 @@ https://github.com/Terryazuka/Retail-sales-analysis-using-power-bi/blob/main/Sal
 <img width="1310" height="738" alt="Screenshot 2025-11-20 171044" src="https://github.com/user-attachments/assets/6936eeca-fba1-4c60-935d-f4cf99e6eea9" />
 <img width="1304" height="731" alt="Screenshot 2025-11-20 171200" src="https://github.com/user-attachments/assets/a9680a52-9058-4a32-b06e-b0654a47a74a" />
 
-
 ## Procedures
 -	Data preparation
 -	Two raw tables were used: Sales and Products
@@ -55,4 +54,9 @@ This sales analysis empowered stakeholders to:
 -	Understand how discount strategies affect different customer type
 -	Make data – driven decisions on pricing, promotion, and inventory
 -	Predict future sales outcomes and prepare for high-volume seasons
--	Communicate insights clearly using dynamics visuals and narratives 
+-	Communicate insights clearly using dynamics visuals and narratives
+  
+## Contact
+📧[Email](Terry4azuka@gmail.com)
+🍥[Chat on WhatsApp]https://wa.me/2347053066503 
+🔗[LinkedIn]https://www.linkedin.com/in/terry-azuka-
